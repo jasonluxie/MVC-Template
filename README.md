@@ -1,2 +1,2 @@
 # MVC-Template
-Basic template for MERN stack projects
+Basic template for MVC projects
